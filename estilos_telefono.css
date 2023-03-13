@@ -1,0 +1,30 @@
+@media only screen and (max-width: 400px) {
+	#div-1 {
+		position: relative;
+		height: 700px;
+		width: 400px;        
+		background-color: black;
+        padding-top: 10px;
+	}
+	#div-1a {
+        position: static;
+		width: 250px;
+        height: 300px;
+        padding-top: 10px;
+        margin-top: 10px;
+        margin-left: 60px;
+        margin-bottom: 10px;
+		background-color: pink;
+	}
+	#div-1b {
+        position: static;
+		width: 250px;
+        height: 300px;        
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 60px;
+		background-color: purple;
+	}
+
+
+}
